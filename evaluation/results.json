@@ -1,0 +1,681 @@
+{
+  "results": [
+    {
+      "file_name": "medical_01.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was the sample size?",
+          "expected_answer": "120 patients",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_01.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was the blood pressure reduction?",
+          "expected_answer": "12.5\u00c2\u00b13.2 mmHg",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_01.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "Were diabetic patients included?",
+          "expected_answer": "No",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_02.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "How long was the study?",
+          "expected_answer": "6 months",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_02.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was the intervention?",
+          "expected_answer": "30 mins/day aerobic exercise",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_02.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was the HbA1c reduction?",
+          "expected_answer": "1.20%",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_03.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was the sample size?",
+          "expected_answer": "150 patients",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_03.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was the primary outcome?",
+          "expected_answer": "15% improvement in FEV1",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_03.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What condition was studied?",
+          "expected_answer": "Asthma",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "financial_04.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was Q3 revenue?",
+          "expected_answer": "$5.2M",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "financial_04.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "Who is the CEO?",
+          "expected_answer": "John Smith",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "financial_04.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What caused growth?",
+          "expected_answer": "Asian market expansion",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "financial_05.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was the revenue?",
+          "expected_answer": "$4.5M",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "financial_05.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was the net profit?",
+          "expected_answer": "$0.9M",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "financial_05.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was a key expense factor?",
+          "expected_answer": "High marketing costs",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "manual_06.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's the max temperature?",
+          "expected_answer": "85\u00c2\u00b0C",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "manual_06.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "How long is warranty?",
+          "expected_answer": "2 years",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "manual_06.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "Step 1 of safety protocol?",
+          "expected_answer": "Disconnect power",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "manual_07.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's the operating temperature?",
+          "expected_answer": "70\u00c2\u00b0C",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "manual_07.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's the battery life?",
+          "expected_answer": "8 hours",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "manual_07.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "How long is the warranty?",
+          "expected_answer": "1 year",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "legal_08.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's the contract duration?",
+          "expected_answer": "3 years",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "legal_08.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "Who are the parties?",
+          "expected_answer": "ACME Corp and XYZ Ltd",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "legal_08.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's the penalty clause?",
+          "expected_answer": "I don't know",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "legal_09.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What is the contract term?",
+          "expected_answer": "2 years",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "legal_09.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "Which jurisdiction applies?",
+          "expected_answer": "New York",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "legal_09.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "Who are the parties?",
+          "expected_answer": "Company X and Vendor Y",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "edge_10.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What were February sales?",
+          "expected_answer": "135K",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "edge_11.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What is the period?",
+          "expected_answer": "Q2 2023",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "edge_11.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "How many unique visitors?",
+          "expected_answer": "50K",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "edge_11.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What is the bounce rate?",
+          "expected_answer": "35%",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "negative_12.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's on page 1?",
+          "expected_answer": "Error: Invalid file format",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "No"
+        }
+      ]
+    },
+    {
+      "file_name": "negative_13.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's the revenue?",
+          "expected_answer": "I don't know",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_14.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was the sample size?",
+          "expected_answer": "300 participants",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_14.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was the reduction in fractures?",
+          "expected_answer": "25%",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "medical_14.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "How long was the study?",
+          "expected_answer": "2 years",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "financial_15.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What was Q4 revenue?",
+          "expected_answer": "$6.8M",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "financial_15.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "Who is the CEO?",
+          "expected_answer": "Jane Doe",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "financial_15.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What were the expenses?",
+          "expected_answer": "$5.2M",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "manual_16.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's the battery life?",
+          "expected_answer": "10 hours",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "manual_16.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "Is it compatible with Linux?",
+          "expected_answer": "No",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "manual_16.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "How long is warranty?",
+          "expected_answer": "3 years",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "legal_17.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "When does it start?",
+          "expected_answer": "March 1, 2024",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "legal_17.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "How long is the term?",
+          "expected_answer": "1 year",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "legal_17.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's the jurisdiction?",
+          "expected_answer": "Texas",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "edge_18.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's the main topic?",
+          "expected_answer": "I don't know",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "No"
+        }
+      ]
+    },
+    {
+      "file_name": "negative_19.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's on page 1?",
+          "expected_answer": "Error: Password-protected file",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    },
+    {
+      "file_name": "negative_20.pdf",
+      "content": "",
+      "questions": [
+        {
+          "question": "What's the content?",
+          "expected_answer": "I don't know",
+          "actual_answer": "",
+          "is_correct": false,
+          "latency": 0.0,
+          "context_present": "Yes"
+        }
+      ]
+    }
+  ],
+  "metrics": {
+    "accuracy": 0.0,
+    "avg_latency": 0.0,
+    "error_handling_rate": 0.0
+  }
+}

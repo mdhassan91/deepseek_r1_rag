@@ -1,0 +1,49 @@
+File Name,Questions,Expected Answer,Actual Answer,Context Present
+medical_01.pdf,What was the sample size?,120 patients, 120 patients,Yes
+medical_01.pdf,What was the blood pressure reduction?,12.5±3.2 mmHg,12.5±3.2 mmHg,Yes
+medical_01.pdf,Were diabetic patients included?,No,No,Yes
+medical_02.pdf,How long was the study?,6 months,The duration of the study is 6 months.,Yes
+medical_02.pdf,What was the intervention?,30 mins/day aerobic exercise,The intervention was 30 mins/day aerobic exercise.,Yes
+medical_02.pdf,What was the HbA1c reduction?,1.20%,"The query asks about the HbA1c reduction, but since it doesn't provide specific data from the study, no exact result is known. The primary outcome was an 1.2% reduction, which may or may not have been achieved.",Yes
+medical_03.pdf,What was the sample size?,150 patients,The sample size for the study is 150 patients.,Yes
+medical_03.pdf,What was the primary outcome?,15% improvement in FEV1,The primary outcome of the study was a 15% improvement in FEV1 (Forced Expiratory Volume) across all participants.,Yes
+medical_03.pdf,What condition was studied?,Asthma,The study examined the effect of Drug Y on Asthma among patients aged 18-55 who were diagnosed with moderate asthma.,Yes
+financial_04.pdf,What was Q3 revenue?,$5.2M,The Q3 Revenue was $5.2 million.,Yes
+financial_04.pdf,Who is the CEO?,John Smith,John Smith is the CEO,Yes
+financial_04.pdf,What caused growth?,Asian market expansion,"The growth was driven primarily by the expansion of the Asian market managed by John Smith, leading to a +12% YoY revenue and a $1.1M net profit.",Yes
+financial_05.pdf,What was the revenue?,$4.5M,The Revenue generated was $4.5M,Yes
+financial_05.pdf,What was the net profit?,$0.9M,The Net profit is $0.9,Yes
+financial_05.pdf,What was a key expense factor?,High marketing costs,The Key expense factor was the High marketing costs,Yes
+manual_06.pdf,What's the max temperature?,85°C,The Maximum temperature was 85°C,Yes
+manual_06.pdf,How long is warranty?,2 years,The warrenty is of 2 years,Yes
+manual_06.pdf,Step 1 of safety protocol?,Disconnect power,First step was to Disconnect power,Yes
+manual_07.pdf,What's the operating temperature?,70°C,The Operating temperature was 70,Yes
+manual_07.pdf,What's the battery life?,8 hours,The battery life is 8 hours.,Yes
+manual_07.pdf,How long is the warranty?,1 year,The warranty is valid for 1 year.,Yes
+legal_08.pdf,What's the contract duration?,3 years,The contract duration is 3 years,Yes
+legal_08.pdf,Who are the parties?,ACME Corp and XYZ Ltd,The parties involved are ACME Corp and XYZ Ltd.,Yes
+legal_08.pdf,What's the penalty clause?,I don't know,The penalty clause is not known.,Yes
+legal_09.pdf,What is the contract term?,2 years,The contract term is 2 years.,Yes
+legal_09.pdf,Which jurisdiction applies?,New York,"Yes,jurisdiction applies in New York",Yes
+legal_09.pdf,Who are the parties?,Company X and Vendor Y,The parties involved are Company X and Vendor Y.,Yes
+edge_10.pdf,What were February sales?,135K,The sales for February were 135K.,Yes
+edge_11.pdf,What is the period?,Q2 2023,The period in question is Q2 2023.,Yes
+edge_11.pdf,How many unique visitors?,50K,There were 50K unique visitors.,Yes
+edge_11.pdf,What is the bounce rate?,35%,The bounce rate was 35%.,Yes
+negative_12.pdf,What's on page 1?,Error: Invalid file format,Page 1 could not be accessed due to an error indicating an invalid file format.,No
+negative_13.pdf,What's the revenue?,I don't know,The revenue is unknown.,Yes
+medical_14.pdf,What was the sample size?,300 participants,The sample size consisted of 300 participants.,Yes
+medical_14.pdf,What was the reduction in fractures?,25%,There was a 25% reduction in fractures.,Yes
+medical_14.pdf,How long was the study?,2 years,The study lasted for 2 years.,Yes
+financial_15.pdf,What was Q4 revenue?,$6.8M,The revenue for Q4 was $6.8M.,Yes
+financial_15.pdf,Who is the CEO?,Jane Doe,The CEO is Jane Doe.,Yes
+financial_15.pdf,What were the expenses?,$5.2M,The expenses amounted to $5.2M.,Yes
+manual_16.pdf,What's the battery life?,10 hours,The battery life is 10 hours.,Yes
+manual_16.pdf,Is it compatible with Linux?,No,The product is not compatible with Linux.,Yes
+manual_16.pdf,How long is warranty?,3 years,The warranty lasts for 3 years.,Yes
+legal_17.pdf,When does it start?,"March 1, 2024","The term starts on March 1, 2024.",Yes
+legal_17.pdf,How long is the term?,1 year,The term length is 1 year.,Yes
+legal_17.pdf,What's the jurisdiction?,Texas,The jurisdiction is Texas.,Yes
+edge_18.pdf,What's the main topic?,I don't know,The main topic is unknown.,No
+negative_19.pdf,What's on page 1?,Error: Password-protected file,Page 1 could not be accessed due to an error indicating a password-protected file.,Yes
+negative_20.pdf,What's the content?,I don't know,The content is unknown.,Yes
